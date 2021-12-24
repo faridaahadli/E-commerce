@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMHalalBackEnd", "crmhalalbackend\CRMHalalBackEnd.csproj", "{D2A474D3-1DCC-48B6-A252-87BE788C9CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileLibrary", "FileLibrary\FileLibrary.csproj", "{029B8301-5E50-432B-B154-66F87517C47E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A474D3-1DCC-48B6-A252-87BE788C9CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A474D3-1DCC-48B6-A252-87BE788C9CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A474D3-1DCC-48B6-A252-87BE788C9CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A474D3-1DCC-48B6-A252-87BE788C9CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029B8301-5E50-432B-B154-66F87517C47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029B8301-5E50-432B-B154-66F87517C47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029B8301-5E50-432B-B154-66F87517C47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029B8301-5E50-432B-B154-66F87517C47E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A7C6940-2FC1-48D6-811C-2D1A13C87186}
+	EndGlobalSection
+EndGlobal

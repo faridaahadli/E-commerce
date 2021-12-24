@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CRMHalalBackEnd
+/crmhalalbackend/bin
+/crmhalalbackend/obj/Debug
+/bin
+/obj/Debug
+/crmhalalbackend/files
+/crmhalalbackend/certificate
+/packages
+/.vs
+/crmhalalbackend/Properties/PublishProfiles
+/crmhalalbackend/obj/Release/Package/PackageTmp/bin
+/crmhalalbackend/obj/Release
+/crmhalalbackend/obj
+/FileLibrary/bin
+/FileLibrary/obj
